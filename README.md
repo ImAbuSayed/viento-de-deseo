@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Siento el viento de deseo cuando rozas mi piel
+> Esa mirada tuya, mami, sabe a pura miel
+> You know I want you, baby, no te eches pa' atrás
+> Esta noche en la ciudad, los do' vamo' a volar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
