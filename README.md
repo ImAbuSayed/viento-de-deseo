@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/viento-de-deseo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Viento de deseo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/viento-de-deseo/) |
+| **Get License** | [Secure Licensing Rights for Viento de deseo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/viento-de-deseo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `e29c5d19a80e56601569f5297eea995891636ba51fdcbc6b8a76bdae94ea227a` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

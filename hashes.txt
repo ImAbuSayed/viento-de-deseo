@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Viento de deseo
+
+This log tracks the cryptographic history and versioning for the song **Viento de deseo** (viento-de-deseo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T07:19:29.559484 | `v1` | `e29c5d19a80e56601569f5297eea995891636ba51fdcbc6b8a76bdae94ea227a` | `c0995496e57ebd9d06ed0b229a1fb551216d5d6696ec3cf56d70aaebb399e2fe` | `2026-06-22_viento-de-deseo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
